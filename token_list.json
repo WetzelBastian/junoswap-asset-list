@@ -315,6 +315,22 @@
       ],
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-HSKY",
+      "chain_id": "juno-1",
+      "token_address": "juno1hpm7ynqwqmstkqzw7aw5c4v0e0nf2zxm9cde0ued62llpdwcehnqnqukqe",
+      "swap_address": "juno1r35khypn89ra7sqc93u409yjgmzrt8r69y7xvskhlchxjpk8hrfslxpy97",
+      "symbol": "HSKY",
+      "name": "Husky",
+      "decimals": "3",
+      "logoURI": "https://raw.githubusercontent.com/WetzelBastian/icon/265f69cf3a34fdac4479b0c442e54024674888a5/noun-annoying-1683415.svg",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "hsky"
     }
   ],
   "version": {
