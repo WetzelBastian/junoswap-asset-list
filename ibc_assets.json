@@ -148,7 +148,7 @@
       "name": "Secret",
       "symbol": "SCRT",
       "chain_id": "secret-4",
-      "rpc": "https://secret.rpc.consensus.one:443",
+      "rpc": "https://rpc.cosmos.directory/secretnetwork:443",
       "denom": "uscrt",
       "decimals": 6,
       "channel": "channel-8",
